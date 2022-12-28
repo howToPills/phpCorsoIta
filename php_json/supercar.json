@@ -1,0 +1,23 @@
+[
+    {
+        "marchio": "Pagani",
+        "nome": "Huayra",
+        "velocitaMax": 340,
+        "motoreElettrico": false,
+        "colore": "rosso"
+    },
+    {
+        "marchio": "Lamborghini",
+        "nome": "Huracan",
+        "velocitaMax": 360,
+        "motoreElettrico": false,
+        "colore": "giallo"
+    },
+    {
+        "marchio": "Tesla",
+        "nome": "Model S",
+        "velocitaMax": 280,
+        "motoreElettrico": true,
+        "colore": "bianco"
+    }
+]
